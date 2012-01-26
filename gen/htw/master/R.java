@@ -14,12 +14,17 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int lineGraph=0x7f050005;
+        public static final int lineGraphAChartEngine=0x7f050009;
+        public static final int lineGraphAFreeChart=0x7f05000a;
         public static final int linearLayout1=0x7f050000;
-        public static final int lines=0x7f050004;
+        public static final int lines=0x7f050006;
+        public static final int range=0x7f050004;
         public static final int steps=0x7f050002;
-        public static final int textLines=0x7f050003;
+        public static final int textLines=0x7f050005;
+        public static final int textRange=0x7f050003;
         public static final int textSteps=0x7f050001;
+        public static final int textTolerance=0x7f050007;
+        public static final int tolerance=0x7f050008;
     }
     public static final class layout {
         public static final int main=0x7f030000;
