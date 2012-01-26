@@ -1,17 +1,19 @@
 package htw.master;
 
+import htw.fps.MaxFPSActivity;
 import org.afree.chart.AFreeChart;
 import org.afree.chart.plot.Plot;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.graphics.Canvas;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 
 
-public class GraphKillzzActivity extends Activity {
+public class GraphKillzzActivity extends MaxFPSActivity {
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
